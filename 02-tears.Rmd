@@ -1,2 +1,15 @@
 # The well of july
 
+This is inline `r 3 * 7`.
+
+And here is some code
+```{r}
+x <- rnorm(20)+20
+y <- x + 10*rnorm(20)
+plot(x,y,pch=16,col="blue")
+```
+
+which comes before this text.
+
+<!-- for which we need bookdown::render_book("index.Rmd")     --> 
+<!--                   browseURL("C:/Users/graham/Desktop/FromApr2022/Git-projects/satmap1/SatMap01/docs")           -->

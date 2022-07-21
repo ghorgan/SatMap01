@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "SatMap Analysis"
+author: "GWH"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
